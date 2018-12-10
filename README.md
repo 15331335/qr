@@ -1,0 +1,2 @@
+# qr
+QR on MacOSX
