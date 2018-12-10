@@ -1,4 +1,4 @@
-#! /System/Library/Frameworks/Python.framework python
+#! /usr/bin/env python
 import os
 import datetime
 from pyzbar.pyzbar import decode
